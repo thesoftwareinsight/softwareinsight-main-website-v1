@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="keywords" content="Digital marketing agency, Digital marketing company, Digital marketing services, sass, software company">
-		<meta name="description" content="TSI Creative Personal Service HTML Template designed for personal service.">
-      	<meta property="og:site_name" content="TSI">
+		<meta name="description" content="vcamp Creative Personal Service HTML Template designed for personal service.">
+      	<meta property="og:site_name" content="vcamp">
       	<meta property="og:url" content="https://heloshape.com/">
       	<meta property="og:type" content="website">
-      	<meta property="og:title" content="TSI-Creative Agency & Portfolio HTML5 Template">
+      	<meta property="og:title" content="vcamp-Creative Agency & Portfolio HTML5 Template">
 		<meta name='og:image' content='images/assets/ogg.png'>
 		<!-- For IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +20,7 @@
 		<meta name="msapplication-navbutton-color" content="#202020">
 		<!-- iOS Safari -->
 		<meta name="apple-mobile-web-app-status-bar-style" content="#202020">
-		<title>TSI-Creative Agency & Portfolio HTML5 Template</title>
+		<title>vcamp-Creative Agency & Portfolio HTML5 Template</title>
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 		<!-- Main style sheet -->
@@ -45,7 +45,7 @@
 				<div id="preloader">
 					<div id="ctn-preloader" class="ctn-preloader">
 						<div class="animation-preloader">
-							<div class="icon"><img src="images/logo/TSI.svg" alt="" class="m-auto d-block"> <span></span></div>
+							<div class="icon"><img src="images/logo/vcamp.svg" alt="" class="m-auto d-block"> <span></span></div>
 							<div class="txt-loading mt-4">
 								<span data-text-preloader="C" class="letters-loading">
 									C
@@ -90,16 +90,16 @@
 			<header class="theme-main-menu sticky-menu theme-menu-two">
 				<div class="inner-content">
 					<div class="d-flex align-items-center justify-content-between">
-						<div class="logo"><a href="index.html"><img src="images/logo/TSI_01.png" alt="" width="127"></a></div>
+						<div class="logo"><a href="index.html"><img src="images/logo/vcamp_01.png" alt="" width="127"></a></div>
 						<nav class="navbar navbar-expand-lg">
 							<button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 						    	<span></span>
 						 	</button>
 						    <div class="collapse navbar-collapse" id="navbarNav">
 						    	<ul class="navbar-nav">
-						    		<li class="d-block d-lg-none"><div class="logo"><a href="index.html"><img src="images/logo/TSI_01.png" alt="" width="127"></a></div></li>
+						    		<li class="d-block d-lg-none"><div class="logo"><a href="index.html"><img src="images/logo/vcamp_01.png" alt="" width="127"></a></div></li>
 							        <li class="nav-item active dropdown mega-dropdown">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Home</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Home</a>
 							        	<ul class="dropdown-menu">
 							                <li class="pb-20">
 							                	<div class="row gx-2">
@@ -186,7 +186,7 @@
 						                </ul>
 						            </li>
 						            <li class="nav-item dropdown mega-dropdown">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Elements</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Elements</a>
 						                <ul class="dropdown-menu">
 							                <li>
 							                	<div class="row">
@@ -256,7 +256,7 @@
 						                </ul>
 						            </li>
 							        <li class="nav-item dropdown mega-dropdown">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Portfolio</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Portfolio</a>
 						                <ul class="dropdown-menu">
 							                <li>
 							                	<div class="row justify-content-between">
@@ -341,7 +341,7 @@
 						                </ul>
 						            </li>
 						            <li class="nav-item dropdown mega-dropdown-md">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Pages</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Pages</a>
 						                <ul class="dropdown-menu">
 							                <li>
 							                	<div class="row">
@@ -389,10 +389,10 @@
 						                </ul>
 						            </li>
 						            <li class="nav-item dropdown">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Shop</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Shop</a>
 						                <ul class="dropdown-menu">
 						                	<li class="dropdown-submenu dropdown">
-							                	<a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" href="#"><span>Shop Elements</span></a>
+							                	<a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false" href="#"><span>Shop Elements</span></a>
 							                	<ul class="dropdown-menu">
 									            	<li><a href="product-detailsV1.html" class="dropdown-item"><span>Shop Details</span></a></li>
 										            <li><a href="checkout.html" class="dropdown-item"><span>Checkout</span></a></li>
@@ -408,14 +408,14 @@
 						                </ul>
 						            </li>
 							        <li class="nav-item dropdown">
-							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Blog</a>
+							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false">Blog</a>
 						                <ul class="dropdown-menu">
 							                <li><a href="blogV1.html" class="dropdown-item"><span>Grid Layout</span></a></li>
 							                <li><a href="blogV2.html" class="dropdown-item"><span>Grid Dark Layout</span></a></li>
 							                <li><a href="blogV3.html" class="dropdown-item"><span>List With Sidebar</span></a></li>
 							                <li><a href="blogV4.html" class="dropdown-item"><span>Full Width Dark</span></a></li>
 							                <li class="dropdown-submenu dropdown">
-							                	<a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" href="#"><span>Blog Details</span></a>
+							                	<a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="ouvcampde" aria-expanded="false" href="#"><span>Blog Details</span></a>
 							                	<ul class="dropdown-menu">
 									            	<li><a href="blog-detailsV1.html" class="dropdown-item"><span>Standard</span></a></li>
 										            <li><a href="blog-detailsV2.html" class="dropdown-item"><span>Featured Image</span></a></li>
@@ -496,10 +496,10 @@
 
 			<!-- 
 			=============================================
-				TSI Feature Section Three
+				vcamp Feature Section Three
 			============================================== 
 			-->
-			<div class="TSI-feature-section-three mt-200 lg-mt-150 md-mt-120">
+			<div class="vcamp-feature-section-three mt-200 lg-mt-150 md-mt-120">
 				<div class="container">
 					<div class="row align-items-center mb-75 lg-mb-50 md-mb-20">
 						<div class="col-xl-6 col-lg-5" data-aos="fade-right">
@@ -564,16 +564,16 @@
 						</div>
 					</div>
 				</div>
-			</div> <!-- /.TSI-feature-section-three -->
+			</div> <!-- /.vcamp-feature-section-three -->
 			
 
 
 			<!-- 
 			=============================================
-				TSI Text Block One
+				vcamp Text Block One
 			============================================== 
 			-->
-			<div class="TSI-text-block-one mt-300 xl-mt-200 md-mt-120">
+			<div class="vcamp-text-block-one mt-300 xl-mt-200 md-mt-120">
 				<div class="container">
 					<div class="row">
 						<div class="col-xxl-5 col-xl-6 col-lg-7 ms-auto">
@@ -592,7 +592,7 @@
 					<img src="images/shape/shape_04.svg" alt="" class="shapes shape-one">
 				</div>
 				<img src="images/shape/shape_05.svg" alt="" class="shapes shape-two">
-			</div> <!-- /.TSI-text-block-one -->
+			</div> <!-- /.vcamp-text-block-one -->
 
 
 
@@ -620,7 +620,7 @@
 						<div class="col-md-3 col-sm-6" data-aos="fade-up" data-aos-delay="100">
 							<div class="counter-block-one text-center mb-45">
 								<div class="main-count font-recoleta"><span class="counter">3,000</span>+</div>
-								<p class="theme-mb-0">Using TSI</p>
+								<p class="theme-mb-0">Using vcamp</p>
 							</div> <!-- /.counter-block-one -->
 						</div>
 					</div>
@@ -699,17 +699,17 @@
 
 			<!-- 
 			=============================================
-				TSI Feature Section Four
+				vcamp Feature Section Four
 			============================================== 
 			-->
-			<div class="TSI-feature-section-four mt-250 lg-mt-150 md-mt-120">
+			<div class="vcamp-feature-section-four mt-250 lg-mt-150 md-mt-120">
 				<img src="images/shape/shape_05.svg" alt="" class="shapes shape-one">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-xl-5 col-lg-6" data-aos="fade-right">
 							<div class="text-wrapper mb-130 lg-mb-70">
 								<div class="title-style-one">
-									<h2 class="title">Why <br> you <span>choose</span> TSI.</h2>
+									<h2 class="title">Why <br> you <span>choose</span> vcamp.</h2>
 								</div>
 								<p class="meta-info-text text-lg">Lorem ipsum dolor sit consecte adiel sed do eiusmod tem incid ut labore split.</p>
 								<a href="about-usV2.html" class="theme-btn-three">Learn more <i class="fas fa-angle-right"></i></a>
@@ -749,7 +749,7 @@
 						</div>
 					</div>
 				</div>
-			</div> <!-- /.TSI-feature-section-four -->
+			</div> <!-- /.vcamp-feature-section-four -->
 
 
 
@@ -970,7 +970,7 @@
 				Footer
 			=====================================================
 			-->
-			<div class="TSI-footer-one dark-bg">
+			<div class="vcamp-footer-one dark-bg">
 				<div class="clearfix">
 					<div class="container">
 						<div class="row">
@@ -997,7 +997,7 @@
 								<div class="top-footer mt-90 md-mt-70">
 									<div class="row">
 										<div class="col-lg-4 col-md-2 d-flex justify-content-between flex-column">
-											<div class="logo"><a href="index.html"><img src="images/logo/TSI_02.png" alt="" style="width:127px"></a></div>
+											<div class="logo"><a href="index.html"><img src="images/logo/vcamp_02.png" alt="" style="width:127px"></a></div>
 											<img src="images/shape/shape_14.svg" alt="" class="shape mt-15 d-none d-md-block">
 										</div>
 										<div class="col-lg-3 col-md-3 col-sm-4">
@@ -1056,14 +1056,14 @@
 										</ul>
 									</div>
 									<div class="col-lg-4 order-lg-1 mb-15">
-										<p class="copyright text-center">Copyright @2022 TSI inc.</p>
+										<p class="copyright text-center">Copyright @2022 vcamp inc.</p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div> <!-- /.TSI-footer-one -->
+			</div> <!-- /.vcamp-footer-one -->
 
 
 			<button class="scroll-top">
