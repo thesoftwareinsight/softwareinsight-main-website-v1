@@ -22,7 +22,7 @@
         <meta property="twitter:description" content="We are full-service software development company that specializes in creating scalable and responsive solutions that are tailored to the client’s specific requirements. We specialize in creating innovative web and mobile applications that are fast, secure, scalable, and simple to operate for companies of all sizes, from start-ups to well-established corporations.
         ">
         <meta property="twitter:image" content="">
-        
+
 		<title>The Software Insight - Full services software development company</title>
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
@@ -452,42 +452,29 @@
 				Theme Hero Banner
 			============================================== 
 			-->
-			<div class="hero-banner-two">
-				<div class="container h-100">
-					<div class="main-content h-100">
-						<div class="text-wrapper">
-							<h1 class="hero-heading font-recoleta"><span>Expert</span> care your website.</h1>
-							<p class="hero-sub-heading text-lg">We helpingclient  to create WordPress websites with our talented expert.</p>
-							<ul class="button-group d-sm-flex align-items-center style-none">
-								<li><a href="contactV2.html" class="mt-15 demo-button tran3s">Try a free demo</a></li>
-								<li><a href="contactV2.html" class="mt-15 callback-button d-flex align-items-center"><span>Request a Callback</span> <img src="images/icon/icon_23.svg" alt="" class="ms-3"></a></li>
-							</ul>
-						</div> <!-- /.text-wrapper -->
-
-
-						<div class="row gx-md-5 align-items-end h-100">
-							<div class="col-3">
-								<img src="images/assets/screen_02.png" alt="">
-							</div>
-							<div class="col-3">
-								<img src="images/assets/screen_03.png" alt="" class="mb-35">
-								<img src="images/assets/screen_04.png" alt="">
-							</div>
-							<div class="col-3">
-								<img src="images/assets/screen_05.png" alt="" class="mb-35">
-								<img src="images/assets/screen_06.png" alt="">
-							</div>
-							<div class="col-3">
-								<img src="images/assets/screen_07.png" alt="" class="mb-35">
-								<img src="images/assets/screen_08.png" alt="">
-							</div>
-						</div>
-						<img src="images/shape/shape_03.svg" alt="" class="shapes shape-one">
-					</div> <!-- /.main-content -->
+            <div class="hero-banner-eight">
+				<div class="social-elemnet">
+					<ul class="style-none d-flex align-items-center">
+						<li><a href="#" class="tran3s">Fb.</a></li>
+						<li><a href="#" class="tran3s">Tw.</a></li>
+						<li><a href="#" class="tran3s">Inst.</a></li>
+					</ul>
 				</div>
-			</div> <!-- /.hero-banner-two -->
+				<div class="scroll-bar"></div>
+				
+				<div class="banner-content h-100 d-md-flex align-items-center justify-content-between">
+					<div class="text-wrapper">
+						<h1 class="hero-heading">Boston Consulting Group.</h1>
+						<p class="hero-sub-heading text-lg">We are helping client to create WordPress websites with our talented expert.</p>
+						<a href="contactV3.html" class="theme-btn-eleven ripple-btn">Consult with an exprt now!</a>
+						<p class="term-text">Already a member? <a href="sign-in.html">Sign in.</a></p>
+					</div> <!-- /.text-wrapper -->
 
-			
+					<div class="img-wrapper position-relative">
+						<img src="images/media/img_69.png" alt="">
+					</div>
+				</div> <!-- /.banner-content -->
+			</div>
 
 
 			<!-- 
