@@ -7,7 +7,7 @@
       	<meta property="og:site_name" content="vCamp">
       	<meta property="og:url" content="https://heloshape.com/">
       	<meta property="og:type" content="website">
-      	<meta property="og:title" content="vCamp-Creative Agency & Portfolio HTML5 Template">
+      	<meta property="og:title" content="The Software Insight - Full services software development company">
 		<meta name='og:image' content='images/assets/ogg.png'>
 		<!-- For IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +20,7 @@
 		<meta name="msapplication-navbutton-color" content="#202020">
 		<!-- iOS Safari -->
 		<meta name="apple-mobile-web-app-status-bar-style" content="#202020">
-		<title>vCamp-Creative Agency & Portfolio HTML5 Template</title>
+		<title>The Software Insight - Full services software development company</title>
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 		<!-- Main style sheet -->
